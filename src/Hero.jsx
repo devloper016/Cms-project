@@ -7,14 +7,7 @@ export default function Hero() {
         <div className="hero-title">
           <h1>Contentful CMS</h1>
           <p>
-            Literally authentic you probably haven't heard of them woke,
-            gorpcore fanny pack unicorn yr tbh enamel pin before they sold out
-            vaporware hot chicken. Blue bottle craft beer 90's photo booth,
-            direct trade Brooklyn chambray vegan sus tofu pok pok normcore
-            shoreditch brunch butcher. Live-edge hoodie single-origin coffee
-            offal pitchfork disrupt. Hell of yes plz four loko four dollar
-            toast. Live-edge shaman typewriter gochujang prism bespoke
-            gluten-free lomo sus.
+          A Content Management System (CMS) is a software application or platform that allows users to create, manage, and publish digital content on the internet without requiring advanced technical knowledge. CMSs are widely used for websites, blogs, and online applications to streamline the content creation and publication process.The choice of a CMS depends on factors such as the specific requirements of your project, your technical expertise, and your budget. Each CMS has its strengths and weaknesses, so it's essential to evaluate your options carefully before making a choice.
           </p>
         </div>
         <div className="img-container">
